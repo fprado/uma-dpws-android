@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">dpws4uma</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_search">Search again</string>
+    <string name="title_activity_act_main">dpws4uma</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_explore">Explore DPWS in this network</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_loc">Get location</string>
+	<string name="btn_search_dev">Search devices</string>
+	<string name="btn_search_ser">Search services</string>
+	<string name="btn_no">Nothing (yet)</string>
+	<string name="camera">Camera</string>
+	<string name="sensor">Sensor</string>
+	<string name="video">Video</string>
+	<string name="search_dev">Search for a device</string>
+	<string name="parameters">Parameters</string>
+	<string name="par1">First parameter</string>
+	<string name="par2">Second parameter</string>
+	<string name="invoke">Invoke operation</string>
+	<string name="getOperations">Click on a service to get its operations</string>
+	<string name="getServices">Click on a device to search for its services</string>
+	<string name="invokeOperation">Click on a operation to invoke it</string>
+</resources>

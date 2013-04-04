@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="30dip">
+    
+      <TextView 
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:text="Invoke an operation"
+      android:gravity="center"
+      android:textSize="25sp "
+      android:layout_marginBottom="20dip"/>
+
+    <Button
+        android:id="@+id/buttonSubs"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Event movement (subscribe)" />
+
+    <Button
+        android:id="@+id/buttonUnsubs"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Event movement (unsubscribe)" />
+
+
+</LinearLayout>
